@@ -1,1 +1,1 @@
-# graphics
+# Tipsy Walls App Icon
